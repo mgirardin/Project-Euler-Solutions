@@ -15,7 +15,6 @@ def list_of_primes(end):
             list_ans.append(i)
     return list_ans
 
-
 # Somando os valores da lista de primos
 ans = 0
 for prime in list_of_primes(2000000):
