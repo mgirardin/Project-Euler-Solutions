@@ -61,5 +61,6 @@ for number in range(1, 1000):
             sum += numbers_to_words[second_dig]
             sum += numbers_to_words[third_dig]
 
+#somando one thousand e tirando os and's de one hundred, two hundred, ..., nine hundred
 print(sum + 3 + 8 - 27)
 
