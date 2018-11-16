@@ -1,4 +1,4 @@
-#lista de primos até 20
+# lista de primos até 20
 primes = [x for x in range(2, 21)]
 for indice in range(0, 19):
     if primes[indice] != 1:
@@ -10,7 +10,7 @@ all_numbers = [x for x in range(2, 21)]                         # numeros de 2 a
 primes = [primes[x] for x in range(0,19) if primes[x] != 1]     # primos de 2 a 20
 multiplicities = [1 for x in range(len(primes))]                # maior multiplicidade dos primos na lista
 
-# cal
+# calculando as maiores multiplicidades
 for indice in range(len(primes)):
     max = 0
     for number in all_numbers:
