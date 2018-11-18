@@ -1,4 +1,4 @@
-# memoization
+# tabulation
 fibonaccis = [0]
 
 
