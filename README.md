@@ -1,2 +1,2 @@
 # Project-Euler-Solutions
-Python solutions to project euler problems
+Python and C++ solutions to project euler problems
